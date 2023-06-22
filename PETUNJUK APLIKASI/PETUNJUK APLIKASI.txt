@@ -1,0 +1,27 @@
+**** Aplikasi ini dibuat untuk memenuhi tugas Pemrograman Web ****
+		Delta Putik Kemuning- 21700077
+
+# LOGIN INFO
+username = admin
+password = 123
+
+# Buka laman http://localhost/zakat (index.php)
+# File database berada pada folder database
+
+# Tentang Aplikasi
+Aplikasi 'MyFitrah | Admin' ini diperuntukan untuk admin panitia zakat dengan tujuan mempermudah dalam mengelola database muzakki dan mustahik zakat
+Tidak diberi fitur registrasi karenaa aplikasi ini hanya untuk pribadi/instansi dan untuk mengakses aplikasi ini harus login terlebih dahulu.
+
+# Fitur (II)
+- Fitur bayar pada laman Master Data Muzakki (ketika klik bayar maka data akan berpindah ke database bayarzakat 
+  dan ditampilkan di laman Pengumpulan Zakat Fitrah
+- Laman Pengumpulan Zakat Fitrah berisi data muzakki yang telah melakukan pemabayaran zakat fitrah
+- Laman Distribu (Warga dan Mustahik Lainnya) berisi data-data mustahik 
+
+#  Fitur (III)
+- Fitur Laporan Pembayaran berisi laporan jumlah data dari pembayaran zakat fitrah
+- Fitur Laporan Distribusi Zakat Warga dan Mustahik Lainnya berisi jumlah data dari distribusi zakat mustahik
+- Setiap laporan dapat diextract kedalam file pdf dengan menggunakan dompdf
+
+#Distribusi
+-Pembagian jumlah hak untuk settiap kategori dalam pendistribusian didasarkan pada jumlah semua zakat yan terkumpul kemudian dibagi berdasarkan persentase yang telah ditetappkan.
